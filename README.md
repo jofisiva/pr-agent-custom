@@ -208,3 +208,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for using PR-Agent! We hope this tool helps streamline your code review process. If you have any questions or run into any issues, please don't hesitate to open an issue in the repository.
+
+## 📚 Documentation
+
+Comprehensive documentation and architecture diagrams are available in the [docs/](docs/) directory:
+
+- [Architecture Diagrams](docs/diagrams/) - Sequence, State, and Flow diagrams
+- [Demo Presentation](docs/presentation/) - Presentation materials and guides  
+- [Documentation Index](docs/README.md) - Complete documentation overview
+
+### Quick Links
+
+- [Sequence Diagram](docs/diagrams/sequence-diagram.md) - Component interaction flow
+- [State Diagram](docs/diagrams/state-diagram.md) - System states and transitions
+- [Process Flowchart](docs/diagrams/flowchart.md) - Decision logic and process flow
+- [Demo Guide](docs/presentation/demo-guide.md) - Presentation talking points
